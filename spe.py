@@ -20,3 +20,4 @@ def takecommand():
     return query
 q=takecommand()
 print(q)
+print("hello there")
